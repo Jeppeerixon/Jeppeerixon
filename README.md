@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Parkour & Python
 - 🌱 I’m currently learning ... Python
 - 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ... @jeppeerixon
+- 📫 How to reach me ... @jeppeerixon on instagram
 
 <!---
 jeppeparkour/jeppeparkour is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jeppeparkour
+- 👋 Hi, I’m @jeppeerixon1
 - 👀 I’m interested in ... Parkour & Python
 - 🌱 I’m currently learning ... Python
 - 💞️ I’m looking to collaborate on ... 

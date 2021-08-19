@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jeppeerixon1
 - 👀 I’m interested in ... Parkour & Python
-- 🌱 I’m currently learning ... Flutter & Javascript
+- 🌱 I’m currently learning ... Flask and other Python frameworks
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... @jeppeerixon on instagram
 

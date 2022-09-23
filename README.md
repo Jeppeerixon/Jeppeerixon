@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jeppeerixon1
-- 👀 I’m interested in ... Parkour & Python
-- 🌱 I’m currently learning ... Flask and other Python frameworks
+- 👀 I’m interested in ... Javascript & Parkour
+- 🌱 I’m currently studying ... to become a Front end developer!
 - 💞️ See my latest finished project here: https://flaskml-demo.herokuapp.com/
 - 📫 How to reach me ... @jeppeerixon on instagram
 

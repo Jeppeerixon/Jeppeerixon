@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @jeppeerixon
 - 👀 I’m interested in ... Javascript & Parkour
 - 🌱 I’m currently studying ... to become a Front end developer!
-- 💞️ See my latest finished project here: 
-https://jeppeerixon.github.io/MI-SPACEVENTURES/ https://jeppeerixon.github.io/iPortfolio/
+- 💞️ See my latest finished project here: https://jeppeerixon.github.io/MI-SPACEVENTURES/ 
+- https://jeppeerixon.github.io/iPortfolio/
 - 📫 How to reach me ... @jeppeerixon on instagram
 
 <!---

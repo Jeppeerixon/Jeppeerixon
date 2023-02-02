@@ -2,8 +2,8 @@
 - 👀 I’m interested in ... Javascript & Parkour
 - 🌱 I’m currently studying ... to become a Front end developer!
 - 💞️ See my latest finished live project here: 
+- https://jeppeerixon.github.io/htkappen/
 - https://medieinstitutet.github.io/fed22d-js-grundkurs-2-lunch-roulette-jeppeerixon/
-- https://medieinstitutet.github.io/fed22d-js-grundkurs-gruppuppgift-webbshop-treenigheten/
 - https://jeppeerixon.github.io/MI-SPACEVENTURES/ 
 - https://jeppeerixon.github.io/iPortfolio/
 - 📫 See me do flips ... @jeppeerixon on instagram
